@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|c:\\users\\user\\source\\repos\\appointmentscheduling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|c:\\users\\user\\source\\repos\\appointmentscheduling\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|c:\\users\\user\\source\\repos\\appointmentscheduling\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|c:\\users\\user\\source\\repos\\appointmentscheduling\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|solutionrelative:dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|c:\\users\\user\\source\\repos\\appointmentscheduling\\utility\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|solutionrelative:utility\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|c:\\users\\user\\source\\repos\\appointmentscheduling\\dbinitializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|solutionrelative:dbinitializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|c:\\users\\user\\source\\repos\\appointmentscheduling\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|c:\\users\\user\\source\\repos\\appointmentscheduling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|c:\\users\\user\\source\\repos\\appointmentscheduling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|c:\\users\\user\\source\\repos\\appointmentscheduling\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|c:\\users\\user\\source\\repos\\appointmentscheduling\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -53,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|c:\\users\\user\\source\\repos\\appointmentscheduling\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|c:\\users\\user\\source\\repos\\appointmentscheduling\\utility\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E674063-FEA0-4B39-9B08-0FCDE04E597B}|AppointmentScheduling.csproj|solutionrelative:utility\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,37 +74,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IDbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\DbInitializer\\IDbInitializer.cs",
-              "RelativeDocumentMoniker": "DbInitializer\\IDbInitializer.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\DbInitializer\\IDbInitializer.cs",
-              "RelativeToolTip": "DbInitializer\\IDbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T05:21:36.848Z",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-25T18:37:20.343Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:55:03.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\DbInitializer\\DbInitializer.cs",
               "RelativeDocumentMoniker": "DbInitializer\\DbInitializer.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\DbInitializer\\DbInitializer.cs",
               "RelativeToolTip": "DbInitializer\\DbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T05:21:23.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T05:21:23.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -104,25 +128,23 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-03T05:20:09.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T05:20:09.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T05:20:02.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T05:20:02.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
@@ -130,12 +152,11 @@
               "RelativeToolTip": "Startup.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAAwEYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T05:19:33.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T05:19:33.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\Views\\Appointment\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Appointment\\Index.cshtml",
@@ -143,12 +164,11 @@
               "RelativeToolTip": "Views\\Appointment\\Index.cshtml",
               "ViewState": "AgIAABgAAAAANTMzMzP7vyAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T09:03:56.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T09:03:56.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Delete.cshtml.g.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\obj\\Debug\\net5.0\\Razor\\Views\\Account\\Delete.cshtml.g.cs",
               "RelativeDocumentMoniker": "obj\\Debug\\net5.0\\Razor\\Views\\Account\\Delete.cshtml.g.cs",
@@ -160,19 +180,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "Helper.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\Utility\\Helper.cs",
               "RelativeDocumentMoniker": "Utility\\Helper.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\Utility\\Helper.cs",
               "RelativeToolTip": "Utility\\Helper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T08:43:48.459Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
+              "Title": "IDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\DbInitializer\\IDbInitializer.cs",
+              "RelativeDocumentMoniker": "DbInitializer\\IDbInitializer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\DbInitializer\\IDbInitializer.cs",
+              "RelativeToolTip": "DbInitializer\\IDbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:21:36.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
@@ -184,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\Views\\Account\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Edit.cshtml",
@@ -196,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "EditUserViewModel.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\Models\\ViewModels\\EditUserViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\EditUserViewModel.cs",
@@ -208,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "UserWithRolesViewModel.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\Models\\ViewModels\\UserWithRolesViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\UserWithRolesViewModel.cs",
@@ -220,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Candidate.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\Views\\Account\\Candidate.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Candidate.cshtml",
@@ -232,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppointmentScheduling\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -241,6 +273,10 @@
               "ViewState": "AgIAALIAAAAA6MzMzMwawLYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T08:15:09.177Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
